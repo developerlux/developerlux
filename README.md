@@ -1,6 +1,6 @@
 
 <a href="#" target="_blank">
-  <img src="svg/lux.svg" width="1200" alt="" />
+  <img src="lux.svg" width="1200" alt="" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
