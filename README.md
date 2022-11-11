@@ -53,7 +53,7 @@
 <br>
 <div align=center>
   <a href="#" title="Trungquandev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://media.giphy.com/media/c8P0srXm9BNug/giphy.gif" />
   </a>
   
 </div>
@@ -73,7 +73,7 @@
   <a href="" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="" />
   </a>
-  <a href="" target="blank">
+  <a href="https://www.instagram.com/_developer.phuc/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="" />
   </a>
   <a href="mailto:phucdeeptry723@gmail.com" target="top">
