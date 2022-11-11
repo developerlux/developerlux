@@ -52,7 +52,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="TruongPhuc">
     <img width="315" align="center" src="https://media.giphy.com/media/c8P0srXm9BNug/giphy.gif" />
   </a>
   
