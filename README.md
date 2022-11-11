@@ -67,8 +67,8 @@
   <a href="" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="" />
   </a>
-  <a href="" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="https://www.youtube.com/channel/UCuPNJvCnL3mgcgHv2TWylhg" />
+  <a href="https://www.youtube.com/channel/UCuPNJvCnL3mgcgHv2TWylhg" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="" />
   </a>
   <a href="" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="" />
@@ -77,7 +77,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="" />
   </a>
   <a href="mailto:phucdeeptry723@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="" />
 
 
 <br>
