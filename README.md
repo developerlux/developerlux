@@ -53,7 +53,7 @@
 <br>
 <div align=center>
   <a href="#" title="TruongPhuc">
-    <img width="315" align="center" src="https://media.giphy.com/media/c8P0srXm9BNug/giphy.gif" />
+    <img width="315" align="center" src="https://media2.giphy.com/media/11SBJ0JtkqTa2Q/giphy.gif?cid=5e214886r1bb6xbdjmyym1f2nqheuvbuvq96tucfjh3luuh9&rid=giphy.gif&ct=g" />
   </a>
   
 </div>
